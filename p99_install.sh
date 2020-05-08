@@ -1,4 +1,4 @@
-sudo apt-get install wine-stable winehq-stable fluidsynth qsynth fluid-soundfont-gm libglu1-mesa:i386
+sudo apt-get install wine-stable winehq-stable fluidsynth qsynth fluid-soundfont-gm libglu1-mesa:i386 -y
 
 xdg-open "magnet:?xt=urn:btih:9B2186AF1F2B46D1126A1A35A68DE445C4597C4A&dn=EverQuest%20Titanium%20-%20Project%201999%20-%20The%20Scars%20of%20Velious&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce" &> /dev/null
 
