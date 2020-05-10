@@ -5,13 +5,13 @@ A small shell script that installs Project 1999 on Linux.
 You need a torrent client, and you need a Debian based distro. I tested this using Linux Mint and it ran flawlessly.
 
 ## Running The Script
-'bash p99_install.sh'
+```bash p99_install.sh```
 Make sure you place the torrent download in Downloads (this is usually a default directory)
 The rest is done for you, wait, and don't enter yes until the torrent has fully downloaded.
 
 ## Playing The Game
-'cd /home/$USER/'EverQuest Project 1999'/'
-'wine eqgame patchme'
+```cd /home/$USER/'EverQuest Project 1999'/```
+```wine eqgame patchme```
 
 
 ### A Few Things To Note
