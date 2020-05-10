@@ -8,7 +8,7 @@ You need a torrent client, and you need a Debian based distro. I tested this usi
 ```
 bash p99_install.sh
 ```
-Make sure you place the torrent download in /home/$USER/Downloads (this is usually a default directory). The rest is done for you, wait, and don't enter yes until the torrent has fully downloaded.
+Make sure the torrent is being downloaded to '/home/$USER/Downloads' and the rest is done for you. Don't enter yes in the terminal prompt until the torrent has fully downloaded.
 
 ## Playing The Game
 ```
