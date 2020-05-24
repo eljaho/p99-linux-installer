@@ -23,7 +23,7 @@ wget http://www.project1999.com/files/P99Files53.zip
 
 unzip 'P99Files53.zip' -d P99spellfiles
 
-rsync -av /home/$USER/EverQuest\ Project\ 1999/P99spellfiles/ /home/$USER/EverQuest\ Project\ 1999/
+rsync -av /home/$USER/EverQuest/P99spellfiles/ /home/$USER/EverQuest
 
 echo ""
 echo "It's installed. cd into the EverQuest Project 1999 directory and run: wine eqgame patchme"
